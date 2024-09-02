@@ -4,7 +4,7 @@ Menu Command
 
 ## Version
 
-0.9.5 - 8/17/2024
+0.9.6 - 9/1/2024
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer.
 
@@ -54,7 +54,19 @@ Used to manage the free JNC Tools plug-ins for Vectorworks. Allows for installat
 
 ## Installation Instructions
 
+There are two methods of installation, direct download of the plug-in or through the **JNC Tools Free Manager Download** Vectorworks file.
 
+### Direct Download:
+
+1. Download [source plug-in](JNC%20Tools%20Free%20Manager.vsm)
+2. Place downloaded file inside the **Vectorworks User Folder** within the **Plug-ins** directory
+3. Restart Vectorworks
+
+### JNC Tools Free Manager Download
+
+1. Download the downloader [Vectorworks File](JNC%20Tools%20Free%20Manager%20Download.vwx)
+2. Open the downloaded Vectorworks file in the desired version of Vectorworks (2019 or newer)
+3. Follow the instructions in the file
 
 ## Adding the Plug-in to your Workspace
 
@@ -95,6 +107,8 @@ The categories for this plug-in are as follows:
 | 08/17/2024 | 0.9.2 | Fixed bug with Update Manager button |
 | 08/17/2024 | 0.9.3 | Fixed bug with updating plug-in on row 1 |
 | 08/17/2024 | 0.9.4 | Release Candidate |
+| 08/17/2024 | 0.9.5 | Added Donate button and patched some bugs |
+| 09/01/2024 | 0.9.6 | Made dialog boxes resizable |
 
 ## Known Bugs
 
