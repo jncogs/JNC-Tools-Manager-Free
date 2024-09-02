@@ -64,7 +64,7 @@ There are two methods of installation, direct download of the plug-in or through
 
 ### JNC Tools Free Manager Download
 
-1. Download the downloader [Vectorworks File](JNC%20Tools%20Free%20Manager%20Download.vwx)
+1. Download the installer [Vectorworks File](JNC%20Tools%20Free%20Manager%20Download.vwx)
 2. Open the downloaded Vectorworks file in the desired version of Vectorworks (2019 or newer)
 3. Follow the instructions in the file
 
