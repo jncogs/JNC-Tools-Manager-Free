@@ -6,7 +6,7 @@ Menu Command
 
 0.9.6 - 9/1/2024
 
-This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer.
+This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer on PC and 2021 on Mac.
 
 ## Description
 
@@ -109,6 +109,9 @@ The categories for this plug-in are as follows:
 | 08/17/2024 | 0.9.4 | Release Candidate |
 | 08/17/2024 | 0.9.5 | Added Donate button and patched some bugs |
 | 09/01/2024 | 0.9.6 | Made dialog boxes resizable |
+| 09/02/2024 | 0.9.7 | Fixed bug with download on Mac platforms |
+| 11/22/2024 | 0.9.8 | Actually fixed bug with download on Mac platforms |
+| 11/22/2024 | 0.9.9 | Release Candidate |
 
 ## Known Bugs
 
