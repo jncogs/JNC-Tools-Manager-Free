@@ -102,16 +102,7 @@ The categories for this plug-in are as follows:
 
 | Date | Version | Note |
 | :---: | :---: | :--- |
-| 08/16/2024 | 0.9.0 | Beta Test |
-| 08/17/2024 | 0.9.1 | Beta Test 2 |
-| 08/17/2024 | 0.9.2 | Fixed bug with Update Manager button |
-| 08/17/2024 | 0.9.3 | Fixed bug with updating plug-in on row 1 |
-| 08/17/2024 | 0.9.4 | Release Candidate |
-| 08/17/2024 | 0.9.5 | Added Donate button and patched some bugs |
-| 09/01/2024 | 0.9.6 | Made dialog boxes resizable |
-| 09/02/2024 | 0.9.7 | Fixed bug with download on Mac platforms |
-| 11/22/2024 | 0.9.8 | Actually fixed bug with download on Mac platforms |
-| 11/22/2024 | 0.9.9 | Release Candidate |
+| 11/23/2024 | 1.0.0 | Initial release |
 
 ## Known Bugs
 
