@@ -4,7 +4,7 @@ Menu Command
 
 ## Version
 
-0.9.6 - 9/1/2024
+1.0.1 - 11/23/2024
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer on PC and 2021 on Mac.
 
@@ -103,6 +103,8 @@ The categories for this plug-in are as follows:
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 11/23/2024 | 1.0.0 | Initial release |
+| 11/23/2024 | 1.0.1 | Moved Update/Install All button to be more prominent |
+| - | - | All Up to Date message will no longer appear when no plug-ins are installed |
 
 ## Known Bugs
 
