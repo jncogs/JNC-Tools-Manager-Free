@@ -4,7 +4,7 @@ Menu Command
 
 ## Version
 
-1.0.3 - 11/27/2024
+1.0.4 - 11/28/2024
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer on PC and 2021 on Mac.
 
@@ -109,6 +109,7 @@ The categories for this plug-in are as follows:
 | 11/24/2024 | 1.0.2 | Adjusted button placement and made Update/Install All larger |
 | 11/27/2024 | 1.0.3 | Added Download Tools Set Icons button |
 | - | - | Implemented progress dialog for Update/Install All |
+| 11/28/2024 | 1.0.4 | Fixed a bug with Open File Location when downloading icons on Mac platforms |
 
 ## Known Bugs
 
