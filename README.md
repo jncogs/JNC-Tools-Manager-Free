@@ -110,6 +110,8 @@ The categories for this plug-in are as follows:
 | 11/27/2024 | 1.0.3 | Added Download Tools Set Icons button |
 | - | - | Implemented progress dialog for Update/Install All |
 | 11/28/2024 | 1.0.4 | Fixed a bug with Open File Location when downloading icons on Mac platforms |
+| 12/23/2024 | 1.0.5 | Changed plug-in folder creation to category rather than Github directory |
+| 12/24/2024 | 1.0.6 | Fixed bug with supplemental files when in subdirectory |
 
 ## Known Bugs
 
