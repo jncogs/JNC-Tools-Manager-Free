@@ -4,7 +4,7 @@ Menu Command
 
 ## Version
 
-1.0.4 - 11/28/2024
+1.0.7 - 12/25/2024
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer on PC and 2021 on Mac.
 
@@ -112,6 +112,7 @@ The categories for this plug-in are as follows:
 | 11/28/2024 | 1.0.4 | Fixed a bug with Open File Location when downloading icons on Mac platforms |
 | 12/23/2024 | 1.0.5 | Changed plug-in folder creation to category rather than Github directory |
 | 12/24/2024 | 1.0.6 | Fixed bug with supplemental files when in subdirectory |
+| 12/25/2024 | 1.0.7 | Fixed bug with VW Restart notice not tracking properly with resizable layout |
 
 ## Known Bugs
 
