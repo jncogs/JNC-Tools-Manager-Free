@@ -104,11 +104,9 @@ The categories for this plug-in are as follows:
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 11/23/2024 | 1.0.0 | Initial release |
-| 11/23/2024 | 1.0.1 | Moved Update/Install All button to be more prominent |
-| - | - | All Up to Date message will no longer appear when no plug-ins are installed |
+| 11/23/2024 | 1.0.1 | Moved Update/Install All button to be more prominent <br><br> All Up to Date message will no longer appear when no plug-ins are installed |
 | 11/24/2024 | 1.0.2 | Adjusted button placement and made Update/Install All larger |
-| 11/27/2024 | 1.0.3 | Added Download Tools Set Icons button |
-| - | - | Implemented progress dialog for Update/Install All |
+| 11/27/2024 | 1.0.3 | Added Download Tools Set Icons button <br><br> Implemented progress dialog for Update/Install All |
 | 11/28/2024 | 1.0.4 | Fixed a bug with Open File Location when downloading icons on Mac platforms |
 | 12/23/2024 | 1.0.5 | Changed plug-in folder creation to category rather than Github directory |
 | 12/24/2024 | 1.0.6 | Fixed bug with supplemental files when in subdirectory |
