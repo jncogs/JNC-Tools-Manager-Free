@@ -24,7 +24,7 @@ Used to manage the free JNC Tools plug-ins for Vectorworks. Allows for installat
 
 ## Dialog Box Explanation
 
-![Dialog Box Exampe](images/dialog-box-example.jpg)
+![Dialog Box Example](images/dialog-box-example.jpg)
 
 1. Column listing the category of the Plug-in.
 2. Column listing the name of the Plug-in.
