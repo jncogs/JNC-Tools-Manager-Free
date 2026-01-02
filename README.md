@@ -4,7 +4,7 @@ Menu Command
 
 ## Version
 
-1.0.7 - 12/25/2024
+1.1.0 - 01/01/2026
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer on PC and 2021 on Mac.
 
@@ -45,13 +45,14 @@ Used to manage the free JNC Tools plug-ins for Vectorworks. Allows for installat
 17. Press the **Known Bugs** button to open a window displaying all currently known bugs with the selected Plug-in. If no known bugs exist, no window will be opened and the system will beep.
 18. Press the **Feature Requests** button to open a window displaying planned features for the selected Plug-in. If no features are currently planned for the Plug-in, no window will open and the system will beep.
 19. Press the **Update/Install All** button to install all Plug-ins marked "*Not Installed*" and to update all plug-ins marked "*New Version Available*". This action cannot be undone.
-20. **Manager Version Box** containing information about the Manager. The box contains the current verion number and status, a button to display the Manager's **Release Notes**, and a button to download an **Update** for the Manager. If the most current version of the Manager is already installed, the **Update** button will be disabled.
-21. **Server Connection Box** showing the connection to the GitHub page for the selected Plug-in. If the box contains a <span style="color:Red">Red X</span>, the Plug-in is either missing from the GitHub page or the internet has become disconnected since running the menu command. Press the **Click to Retry** button to attempt to reconnect to the page.
-22. Press **Download Tool Set Icons** to download a set of icon image files to use as Tool Set icons for Plug-in Objects to the User Folder. A separate dialog box will open showing the file location with an option to open in an Explorer or Finder window.
-23. **Donation Box** containing donation information. Press the **Donate on PayPal** button to open a webpage linked to the developer's PayPal account in the system's default Web Browser. Donations are not at all expected but are certainly appreciated.
-24. If a restart of Vectorworks is required, it will be shown here.
-25. **Help Box**, mousing over any dialog box element will display an explanation here.
-26. Press the **Close** button to close the dialog box.
+20. Press the **Update Credentials** button to update or install Credentials files for all installed Plug-ins. *This button will only appear in Vectorworks 2026 or newer*.
+21. **Manager Version Box** containing information about the Manager. The box contains the current verion number and status, a button to display the Manager's **Release Notes**, and a button to download an **Update** for the Manager. If the most current version of the Manager is already installed, the **Update** button will be disabled.
+22. **Server Connection Box** showing the connection to the GitHub page for the selected Plug-in. If the box contains a <span style="color:Red">Red X</span>, the Plug-in is either missing from the GitHub page or the internet has become disconnected since running the menu command. Press the **Click to Retry** button to attempt to reconnect to the page.
+23. Press **Download Tool Set Icons** to download a set of icon image files to use as Tool Set icons for Plug-in Objects to the User Folder. A separate dialog box will open showing the file location with an option to open in an Explorer or Finder window.
+24. **Donation Box** containing donation information. Press the **Donate on PayPal** button to open a webpage linked to the developer's PayPal account in the system's default Web Browser. Donations are not at all expected but are certainly appreciated.
+25. If a restart of Vectorworks is required, it will be shown here.
+26. **Help Box**, mousing over any dialog box element will display an explanation here.
+27. Press the **Close** button to close the dialog box.
 
 ## Installation Instructions
 
@@ -104,13 +105,14 @@ The categories for this plug-in are as follows:
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 11/23/2024 | 1.0.0 | Initial release |
-| 11/23/2024 | 1.0.1 | Moved Update/Install All button to be more prominent <br><br> All Up to Date message will no longer appear when no plug-ins are installed |
+| 11/23/2024 | 1.0.1 | Moved Update/Install All button to be more prominent <br> All Up to Date message will no longer appear when no plug-ins are installed |
 | 11/24/2024 | 1.0.2 | Adjusted button placement and made Update/Install All larger |
-| 11/27/2024 | 1.0.3 | Added Download Tools Set Icons button <br><br> Implemented progress dialog for Update/Install All |
+| 11/27/2024 | 1.0.3 | Added Download Tools Set Icons button <br> Implemented progress dialog for Update/Install All |
 | 11/28/2024 | 1.0.4 | Fixed a bug with Open File Location when downloading icons on Mac platforms |
 | 12/23/2024 | 1.0.5 | Changed plug-in folder creation to category rather than Github directory |
 | 12/24/2024 | 1.0.6 | Fixed bug with supplemental files when in subdirectory |
 | 12/25/2024 | 1.0.7 | Fixed bug with VW Restart notice not tracking properly with resizable layout |
+| 01/01/2026 | 1.1.0 | Added Credential support for VW2026 and newer <br> Added support for multiple selection |
 
 ## Known Bugs
 
@@ -118,7 +120,9 @@ No Known Bugs
 
 ## Feature Requests
 
-No current Feature Requests
+| Date Logged | Request |
+| :---: | :--- |
+| 02/02/2025 | Add automatic installation of associated plug-ins |
 
 ## License
 
