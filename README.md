@@ -116,7 +116,9 @@ The categories for this plug-in are as follows:
 
 ## Known Bugs
 
-No Known Bugs
+| Date Logged | Bug |
+| :---: | :--- |
+| 02/11/2026 | Pressing the Update/Install All button does not download Credentials |
 
 ## Feature Requests
 
