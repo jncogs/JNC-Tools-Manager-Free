@@ -4,7 +4,7 @@ Menu Command
 
 ## Version
 
-1.1.1 - 02/20/2026
+1.1.2 - 10/11/2026
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer on PC and 2021 on Mac.
 
@@ -114,7 +114,7 @@ The categories for this plug-in are as follows:
 | 12/25/2024 | 1.0.7 | Fixed bug with VW Restart notice not tracking properly with resizable layout |
 | 01/01/2026 | 1.1.0 | Added Credential support for VW2026 and newer <br> Added support for multiple selection |
 | 02/20/2026 | 1.1.1 | Fixed bug with Update/Install All not properly downloading credentials files |
-
+| 10/11/2026 | 1.1.2 | Added check for restart before opening Manager |
 
 ## Known Bugs
 
